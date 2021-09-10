@@ -1,0 +1,13 @@
+#Algoritma mengurutkan 3 bilangan acak
+
+a. mengurutkan 3 bilangan acak secara descending
+1. masukkan bilangan pertama, kedua dan ketiga
+2. ambil bilangan terbesar dari ketiga dari bilangan tersebut, letakkan pada posisi paling atas
+3. ambil bilangan terbesar kedua, letakkan pada posisi dibawah bilangan pertama
+4. ambil bilangan terbesar ketiga, letakkan pada posisi dibawah bilangan kedua
+
+b. mengurutkan 3 bilangan acak secara ascending
+1. masukkan bilangan pertama, kedua, ketiga
+2. Ambil bilangan terkecil dari ketiga bilangan. letakkan bilangan pada posisi paling atas
+3. Ambil bilangan terkecil kedua. letakkan pada posisi dibawah bilangan pertama
+4. ambil bilangan terkecil ketiga. letakkan pada posisi dibawah bilangan kedua
